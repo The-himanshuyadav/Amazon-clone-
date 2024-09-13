@@ -1,4 +1,4 @@
-# Amazon Clone Projrct
+# Amazon Clone Project
 This is my **Amazon Clone Project**.
 Feel free to explore.
 
