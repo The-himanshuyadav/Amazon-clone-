@@ -1,10 +1,10 @@
 # Amazon-clone-
 Developed and visually appealing clone of the Amazon website to demonstrate advanced web development skills and attention to detail. The project involved replicating the clean design and interactive elements of the original site while focusing on front-end technologies
 
-This is First clone project. Feel free to explore.
+ # This is First clone project. Feel free to explore.
 
 Getting Started
-Visite 
+#Visite https://the-himanshuyadav.github.io/Amazon-clone-/
 Navigate through the sections to discover my skills, projects, and more.
 Feel free to reach out through the provided contact details or connect with me on social media.
 Technologies Used
