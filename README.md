@@ -1,6 +1,13 @@
-# Project Amazon Clone
-This is my **Amazon Clone Project**.
-Feel free to explore.
+# Project Travel
+
+## Overview
+Project Travel is a simple website designed to showcase various travel destinations and provide information about different types of tours available. The website features a clean and user-friendly interface with responsive design.
+
+## Features
+- **Home Page**: Introduction to travel options and featured destinations.
+- **Tour Types**: Information about different types of tours available.
+- **Image Gallery**: A collection of beautiful images related to travel destinations.
+- **Contact Information**: Form for visitors to get in touch for inquiries.
 
 ## Getting Started
 1. Visite [amazon_clone.github.io](https://the-himanshuyadav.github.io/Amazon-clone-/) .
