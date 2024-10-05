@@ -5,7 +5,6 @@ Developed visually appealing clone of the Amazon website to demonstrate advanced
 
 ## Features
 - **Home Page**: Introduction the exact clone of amazon
-- **Tour Types**: Information about Amazon products
 - **Image Gallery**: A collection of beautiful images related to Amazon.
 - **Contact Information**: Form for customers to get in touch for inquiries.
 
