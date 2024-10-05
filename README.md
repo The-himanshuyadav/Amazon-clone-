@@ -16,12 +16,12 @@ Developed visually appealing clone of the Amazon website to demonstrate advanced
 ## Technologies Used
 * HTML5
 * CSS3
-* 
+
 ## Getting Started
 To view the project locally, you can open the `index.html` file in your web browser.
 
 ### Live Demo
-You can view the live version of the project at [Your GitHub Pages URL]((https://the-himanshuyadav.github.io/Amazon-clone-/.
+You can view the live version of the project at((https://the-himanshuyadav.github.io/Amazon-clone-/.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
