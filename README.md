@@ -1,13 +1,13 @@
 # Project Travel
 
 ## Overview
-Project Travel is a simple website designed to showcase various travel destinations and provide information about different types of tours available. The website features a clean and user-friendly interface with responsive design.
+Developed visually appealing clone of the Amazon website to demonstrate advanced web development skills and attention to detail. The project involved replicating the clean design and interactive elements of the original site while focusing on front-end technologies responsive design.
 
 ## Features
-- **Home Page**: Introduction to travel options and featured destinations.
-- **Tour Types**: Information about different types of tours available.
-- **Image Gallery**: A collection of beautiful images related to travel destinations.
-- **Contact Information**: Form for visitors to get in touch for inquiries.
+- **Home Page**: Introduction the exact clone of amazon
+- **Tour Types**: Information about Amazon products
+- **Image Gallery**: A collection of beautiful images related to Amazon.
+- **Contact Information**: Form for customers to get in touch for inquiries.
 
 ## Getting Started
 1. Visite [amazon_clone.github.io](https://the-himanshuyadav.github.io/Amazon-clone-/) .
@@ -21,7 +21,7 @@ Project Travel is a simple website designed to showcase various travel destinati
 To view the project locally, you can open the `index.html` file in your web browser.
 
 ### Live Demo
-You can view the live version of the project at [Your GitHub Pages URL](https://your_username.github.io/travel/).
+You can view the live version of the project at [Your GitHub Pages URL]((https://the-himanshuyadav.github.io/Amazon-clone-/.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
